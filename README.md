@@ -16,6 +16,7 @@ An interactive map visualizing all 28 Indian states and 8 Union Territories alon
 - Folium
 - GeoJSON
 - Google Colab
+- Claude
 
 ## Future Improvements
 - Add population or demographic data overlays
